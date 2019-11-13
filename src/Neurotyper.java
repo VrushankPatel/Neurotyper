@@ -290,7 +290,7 @@ public class Neurotyper extends javax.swing.JFrame
             .addGroup(Signin_pnlLayout.createSequentialGroup()
                 .addGap(12, 12, 12)
                 .addComponent(Signin_lbl)
-                .addContainerGap(12, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
         aboutuslbl.setBackground(new java.awt.Color(255, 255, 255));
