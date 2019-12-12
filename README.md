@@ -33,3 +33,5 @@ Here are some screenshots :
 ![Image not found](https://github.com/VrushankPatel/Neurotyper-the-all-new-typing-tutor-Project-in-JAVA/blob/master/Screenshots/26.png)<br><br>
 ![Image not found](https://github.com/VrushankPatel/Neurotyper-the-all-new-typing-tutor-Project-in-JAVA/blob/master/Screenshots/27.png)<br><br>
 ![Image not found](https://github.com/VrushankPatel/Neurotyper-the-all-new-typing-tutor-Project-in-JAVA/blob/master/Screenshots/29.png)<br><br>
+![Image not found](https://github.com/VrushankPatel/Neurotyper-the-all-new-typing-tutor-Project-in-JAVA/blob/master/Screenshots/30.png)<br><br>
+![Image not found](https://github.com/VrushankPatel/Neurotyper-the-all-new-typing-tutor-Project-in-JAVA/blob/master/Screenshots/31.png)<br><br>
