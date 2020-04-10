@@ -3,7 +3,7 @@ I created the typing tutor project which train user for increase the standard ke
 
 ## Take a look at how neurotyper works : https://youtu.be/pzwjP7EeLaY
 <br>
-<img src="https://github.com/VrushankPatel/Neurotyper-the-all-new-typing-tutor-Project-in-JAVA/blob/master/NeuroTyper.png">
+<img src="https://github.com/VrushankPatel/Neurotyper-the-all-new-typing-tutor-Project-in-JAVA/blob/master/NeuroTyper.png"/>
 ## Dependencies<br>
 SQLite JDBC Jar <br>
 https://www.sqlitetutorial.net/sqlite-java/sqlite-jdbc-driver/
