@@ -3,6 +3,7 @@
 
 ## Take a look at how neurotyper works : [Tutorial](https://youtu.be/pzwjP7EeLaY)
 
+## Download the neurotyper app from [here](https://github.com/VrushankPatel/Neurotyper/releases/download/1.0.0/NeuroTyper.exe)
 Neurotyper is to increase the typing speed of user with some new features like Hindi, Gujarati, English, Numeric and Alphanumeric typing practice. <br><br>
 Learn to type faster. Take typing lessons, practice your keyboarding skills here, take a typing test to know your typing proficiency.
 
